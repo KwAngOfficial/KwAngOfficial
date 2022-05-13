@@ -31,6 +31,7 @@ namespace SecondConsolApp
 
             Console.WriteLine(inf);
             Console.WriteLine("a\bb");
+            Console.WriteLine("Hello Wold");
         }
     }
 }
